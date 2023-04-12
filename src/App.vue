@@ -1,15 +1,18 @@
 <template>
 <AppHeader class="container">
-
+  
 </AppHeader>
+
 </template>
 
 <script>
 import AppHeader from "./components/AppHeader.vue";
+
 export default {
   name: 'App',
   components:{
     AppHeader,
+   
   }
 }
 </script>

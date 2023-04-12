@@ -1,16 +1,12 @@
 <template>
   <div>
-    <h1>Hello NodeJS!</h1>
-    <Jumbo></Jumbo>
+    <img class="img" src="../assets/logo.svg" alt="">
   </div>
 </template>
 
 <script>
-import Jumbo from "./Jumbo.vue";
   export default {
-    components:{
-    Jumbo
-  }
+    
   }
 </script>
 
