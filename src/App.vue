@@ -1,7 +1,7 @@
 <template>
-<AppHeader class="container">
+<AppHeader class="container"/>
   
-</AppHeader>
+
 
 </template>
 

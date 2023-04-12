@@ -1,6 +1,7 @@
 <template>
   <div>
     <img class="img" src="../assets/logo.svg" alt="">
+    <p>Progetto con Vite by Classe 92</p>
   </div>
 </template>
 

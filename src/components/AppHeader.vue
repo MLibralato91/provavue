@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Hello NodeJS!</h1>
-    <Jumbo></Jumbo>
+    <Jumbo/>
   </div>
 </template>
 
